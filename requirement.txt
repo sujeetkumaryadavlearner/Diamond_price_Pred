@@ -8,3 +8,5 @@ tensorflow-estimator==2.3.0
 scipy==1.5.3
 scikit-learn  # Add this
 joblib  # Add this if using joblib for model loading
+matplotlib==3.3.2
+Keras==2.4.3
