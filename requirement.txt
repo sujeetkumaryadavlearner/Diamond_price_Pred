@@ -6,3 +6,6 @@ seaborn
 scipy
 tensorflow
 streamlit
+keras
+tensorflow
+joblib  
