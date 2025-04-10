@@ -1,13 +1,34 @@
-jupyter==1.0.0
-matplotlib==1.5.3
-numexpr==2.6.1
-numpy==1.12.0
-pandas==0.19.1
-Pillow==3.4.2
-protobuf==3.0.0
-psutil==5.0.0
-scikit-learn==0.18.1
-scipy==0.18.1
-sympy==1.0
-tensorflow>=1.6.0
-opencv-python==4.1.0.25 
+# Common libraries for ML/DL
+numpy==1.24.3
+scipy==1.10.1
+pandas==2.1.0
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit-learn==1.2.2
+tensorflow==2.13.0
+torch==2.1.0
+pytorch-lightning==2.0.0
+xgboost==1.7.5
+lightgbm==3.3.2
+catboost==1.2
+joblib==1.3.0
+
+# For Jupyter notebook
+notebook==6.5.5
+jupyterlab==4.0.3
+
+# For model deployment
+flask==2.2.3
+fastapi==0.95.0
+
+# For version control and environment handling
+mlflow==2.4.1
+dvc==3.10.0
+gitpython==3.1.30
+
+# For data manipulation and visualization
+plotly==5.10.0
+bokeh==2.4.3
+
+# Other necessary tools
+pip==23.0.1
